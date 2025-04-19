@@ -89,6 +89,35 @@ Configurable via GUI. Alerts are sent using `lettre` in Rust, when thresholds ar
 > - Python (for advanced stats, optional)
 
 ```bash
-git clone https://github.com/yourusername/network-monitor
-cd network-monitor
+git clone https://github.com/yourusername/Monitauri
+cd Monitauri
 cargo tauri dev
+
+---
+
+## 🧠 Lessons Learned
+
+- Rust’s ownership model made multithreading safer but challenging at first.
+- GUI/frontend-backend integration using Tauri was non-trivial but rewarding.
+- Collaborating across modules required strong version control and coordination.
+
+---
+
+## 📌 Future Improvements
+
+- Protocol-level analysis
+- Enhanced error handling and security
+- Expand to support Windows
+- Improved authentication for email alerts
+
+---
+
+## 👥 Authors
+
+- Ramy Badras  
+- Layla Mohsen  
+- Knzy Elmasry  
+- Yuhan Shao  
+
+Project for CSCE 3401 @ University of North Texas  
+Instructor: Dr. Amr El-Kadi
