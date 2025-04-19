@@ -92,6 +92,13 @@ Configurable via GUI. Alerts are sent using `lettre` in Rust, when thresholds ar
 git clone https://github.com/yourusername/Monitauri
 cd Monitauri
 cargo tauri dev
+```
+
+To build a release version:
+
+```bash
+cargo tauri build
+```
 
 ---
 
