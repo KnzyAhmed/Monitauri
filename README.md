@@ -6,7 +6,7 @@ A cross-platform, real-time **Linux & macOS** network monitoring tool built **fr
 
 ## 📸 Preview
 
-> *(Insert screenshots or GIFs of real-time monitoring, GUI layout, and stats graphs here)*
+![Architecture Diagram](screenshots/historyView.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ A cross-platform, real-time **Linux & macOS** network monitoring tool built **fr
 - Persistent data storage for analytics
 - GUI modules: Live traffic, History, Alerts
 
-![Architecture Diagram Placeholder](https://via.placeholder.com/600x200?text=Insert+your+diagram+here)
+![Architecture Diagram](screenshots/architecture.png)
 
 ---
 
